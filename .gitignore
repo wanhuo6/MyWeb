@@ -1,3 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 /out/
 /target/
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+out/
+src/main/resources/
+target/
