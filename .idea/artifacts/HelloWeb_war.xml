@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HelloWeb:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWeb_war</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HelloWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.31" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="HelloWeb/web/Web" />
+    </root>
+  </artifact>
+</component>
