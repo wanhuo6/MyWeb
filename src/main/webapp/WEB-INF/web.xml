@@ -5,12 +5,12 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 
-  <servlet>
+ <!-- <servlet>
     <servlet-name>LoginServlet</servlet-name>
     <servlet-class>Servlet.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>LoginServlet</servlet-name>
     <url-pattern>/GetLogin</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping>-->
 </web-app>
